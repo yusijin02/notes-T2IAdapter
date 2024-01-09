@@ -1,4 +1,4 @@
-# T2I-Adapter
+# T2I-Adapter: 强语义引导的扩散图像生成
 
 Author: <a href="https://yusijin02.github.io/">Sijin Yu</a>
 
